@@ -1,13 +1,14 @@
-## Hi there, I'm Irene👋
+### Hi there, I'm Irene👋
 
-#### I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
+## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
 
 - 🔭 I’m currently working on flutter.
 - 🌱 I’m currently learning flutter.
+- 💬 Ask me about anything.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I like to draw and write.
 
-## Languages and Tools:
+### Languages and Tools:
 
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
@@ -18,7 +19,21 @@
 <br/>
 <br/>
 
-## Connect with me:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+---
+### 📕 Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Resilience by the dint of Technology.](https://cs.ieeekerala.org/2020/09/21/resilience-by-the-dint-of-technology/)
+- [Quantum Computing: how it works and what it can do.](https://cs.ieeekerala.org/2020/07/03/quantum-computing-how-it-works-and-what-it-can-do/)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://irenekurien.blogspot.com/)
+
+---
+### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
