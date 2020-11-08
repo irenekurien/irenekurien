@@ -1,4 +1,4 @@
-### Hi there, I'm Irene👋
+## Hi there, I'm Irene👋
 
 #### I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/)
 
@@ -7,17 +7,18 @@
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I like to draw and write.
 
-### Languages and Tools:
+## Languages and Tools:
 
-[<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
-[<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
+[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
+[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
+[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
 [<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/java.png" />][java]
-[<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
 
 <br/>
 <br/>
+<br/>
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
