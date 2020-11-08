@@ -15,7 +15,7 @@
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
 [<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/java.png" />][java]
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
