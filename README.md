@@ -6,7 +6,7 @@
 ## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
 - 🔭 I’m currently working on flutter.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning dart and flutter.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I like to draw and write.
