@@ -1,4 +1,4 @@
-### Hi there, I'm Irene <img src="https://github.com/irenekurien/irenekurien/blob/main/res/wave.gif" width="25px">
+### Hi there, I'm Irene 
 <p align="center">
 <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
