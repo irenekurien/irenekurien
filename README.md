@@ -1,4 +1,7 @@
-### Hi there, I'm Irene👋
+### Hi there, I'm Irene <img src="https://github.com/irenekurien/irenekurien/blob/main/res/wave.gif" width="25px">
+<p align="center">
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+</p>
 
 ## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
