@@ -15,7 +15,7 @@
 ### <b><i>Languages and Tools</i></b>
 
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
-[<img align="left" alt="Dart" width="76px" src="https://github.com/irenekurien/irenekurien/blob/main/res/django.png" />][django]
+[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/django.png" />][django]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
 [<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/java.png" />][java]
