@@ -11,21 +11,22 @@
 - 😄 Pronouns: She/her.
 - 🏠 Hogwarts House: Griffindor 
 
-### <b><i>Languages and Tools:</i></b>
+
+### <b><i>Languages and Tools</i></b>
 
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
+[<img align="left" alt="Dart" width="76px" src="https://github.com/irenekurien/irenekurien/blob/main/res/django.png" />][django]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
 [<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/java.png" />][java]
 
 <br/><br/><br/>
 
----
 <details>
-<summary>📊 <b><i>Github Stats</summary></i></b>
-
+<summary>📊 
+  <b><i>Github Stats</i></b>
+</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irenekurien&show_icons=true&theme=gotham" alt="Irene Kurien | Stats" />
-
 </details>
 
 ### <b><i>Let's connect! Find me on the web.</i></b>
@@ -38,6 +39,7 @@
 
 [dart]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/dart.png 
 [python]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/python.png 
+[django]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/django.png 
 [java]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/java.png 
 [flutter]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/flutter.png 
 
