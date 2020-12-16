@@ -1,17 +1,17 @@
-### Hi there, I'm Irene 
+### Hi there,
 <p align="center">
 <img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 </p>
 
 ## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
-- 🔭 I’m currently working on flutter.
-- 🌱 I’m currently learning dart and flutter.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning flutter.
 - 💬 Ask me about anything.
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I like to draw and write.
+- 🏠 Hogwarts House: Griffindor 
 
-### Languages and Tools:
+### <b><i>Languages and Tools:</i></b>
 
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
 [<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/dart.png" />][dart]
@@ -21,22 +21,20 @@
 <br/><br/><br/>
 
 ---
-### 📕 Blog Posts
+<details>
+<summary>📊 <b><i>Github Stats</summary></i></b>
 
-<!-- BLOG-POST-LIST:START -->
-- [Resilience by the dint of Technology.](https://cs.ieeekerala.org/2020/09/21/resilience-by-the-dint-of-technology/)
-- [Quantum Computing: how it works and what it can do.](https://cs.ieeekerala.org/2020/07/03/quantum-computing-how-it-works-and-what-it-can-do/)
-<!-- BLOG-POST-LIST:END -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irenekurien&show_icons=true&theme=gotham" alt="Irene Kurien | Stats" />
 
-➡️ [more blog posts...](https://irenekurien.blogspot.com/)
+</details>
 
----
-### Connect with me:
+### <p align="center"> <b><i>Let's connect! Find me on the web.</i></b>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="30" src = "https://img.shields.io/badge/Instagram-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+<br />
+<hr />
 
 [dart]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/dart.png 
 [python]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/python.png 
@@ -45,3 +43,4 @@
 
 [instagram]: https://www.instagram.com/ir_e.n.e/
 [linkedin]: https://www.linkedin.com/in/ireneanna/
+[gmail]: irenekurien01@gmail.com
