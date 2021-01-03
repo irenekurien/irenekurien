@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning flutter.
-- 💬 Ask me about anything.
+- 💬 Ask me about java, python or anything else :)
 - 😄 Pronouns: She/her.
 - 🏠 Hogwarts House: Griffindor 
 
