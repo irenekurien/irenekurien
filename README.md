@@ -22,7 +22,7 @@
   </summary>
   
   <p align="center"><br/>
-    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&layout=compact&theme=nightowl" height="180px" />
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&theme=nightowl" height="180px" />
  </p>
 </details>
 
