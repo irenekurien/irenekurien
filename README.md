@@ -1,6 +1,7 @@
-### Hey there, I'm Irene
+## Hey there, I'm Irene
 
-## I'm CS sophomore at [RIT, Kottayam](http://www.rit.ac.in/).
+### I'm CS sophomore at [RIT, Kottayam](http://www.rit.ac.in/).
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning laravel.
