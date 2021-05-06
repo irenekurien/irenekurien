@@ -7,30 +7,30 @@
  
  <hr />
 
-### Programming Languages
+### :mag: Programming Languages
 <div style="display: flex; justify-content: space-around">
-    <img height="28" src="https://img.shields.io/badge/java-black.svg?&style=flat&logo=java&logoColor=F2983B" />
-    <img height="28" src="https://img.shields.io/badge/javascript-black.svg?&style=flat&logo=javascript&logoColor=EDD730" />
-    <img height="28" src="https://img.shields.io/badge/python-black.svg?&style=flat&logo=python&logoColor=376FA0" />
-    <img height="28" src="https://img.shields.io/badge/php-black.svg?&style=flat&logo=php&logoColor=7377AE" />
-    <img height="28" src="https://img.shields.io/badge/C-black.svg?&style=flat&logo=c&logoColor=darkblue" />
+    <img height="25" src="https://img.shields.io/badge/java-F2983B.svg?&style=flat&logo=java&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/javascript-EDD730.svg?&style=flat&logo=javascript&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/python-376FA0.svg?&style=flat&logo=python&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/php-7377AE.svg?&style=flat&logo=php&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/C-darkblue.svg?&style=flat&logo=c&logoColor=white" />
 </div>
 
 ### :wrench: Technologies & Frameworks/Tools
 
 <div style="display: flex; justify-content: space-around">
-    <img height="28" src="https://img.shields.io/badge/linux-black.svg?&style=flat&logo=linux&logoColor=grey" />
-    <img height="28" src="https://img.shields.io/badge/svelte-black.svg?&style=flat&logo=svelte&logoColor=EB453D" />
-    <img height="28" src="https://img.shields.io/badge/django-black.svg?&style=flat&logo=django&logoColor=112D1F" />
-    <img height="28" src="https://img.shields.io/badge/flutter-black.svg?&style=flat&logo=flutter&logoColor=41B0EF" />
+    <img height="25" src="https://img.shields.io/badge/linux-grey.svg?&style=flat&logo=linux&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/svelte-EB453D.svg?&style=flat&logo=svelte&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/django-112D1F.svg?&style=flat&logo=django&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/flutter-41B0EF.svg?&style=flat&logo=flutter&logoColor=white" />
 </div>
 
 ### :woman_technologist: Let's connect!
 
 
-[<img height="28" src = "https://img.shields.io/badge/gmail-black?&style=flat&logo=gmail&logoColor=c14438">][gmail] 
-[<img height="28" src="https://img.shields.io/badge/linkedin-black.svg?style=flat&logo=linkedin&logoColor=blue" />][linkedin]
-[<img height="28" src="https://img.shields.io/badge/twitter-black.svg?style=flat&logo=twitter&logoColor=blue" />][twitter]
+[<img height="25" src = "https://img.shields.io/badge/gmail-white?&style=flat&logo=gmail&logoColor=c14438">][gmail] 
+[<img height="25" src="https://img.shields.io/badge/linkedin-white.svg?style=flat&logo=linkedin&logoColor=blue" />][linkedin]
+[<img height="25" src="https://img.shields.io/badge/twitter-white.svg?style=flat&logo=twitter&logoColor=blue" />][twitter]
 <br />
 
 <div style="display: flex; justify-content: space-around">
