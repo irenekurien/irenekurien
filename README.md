@@ -4,6 +4,8 @@
  🌱 I’m currently learning laravel.<br/>
  💬 Ask me about java, python or web dev :)<br/>
  😄 Pronouns: She/her.<br/>
+ 
+ <hr />
 
 ### Programming Languages
 <div style="display: flex; justify-content: space-around">
