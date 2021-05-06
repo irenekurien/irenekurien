@@ -10,19 +10,19 @@
 <h3> :wrench: Technologies & Tools </h3>
 
 <div style="display: flex; justify-content: space-around">
-    <img height="25" src="https://img.shields.io/badge/java-orange.svg?&style=flat&logo=java&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/javascript-yellow.svg?&style=flat&logo=javascript&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/python-darkblue.svg?&style=flat&logo=python&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/C-violet.svg?&style=flat&logo=c&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/php-blue.svg?&style=flat&logo=php&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/java-F2983B.svg?&style=flat&logo=java&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/javascript-EDD730.svg?&style=flat&logo=javascript&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/python-376FA0.svg?&style=flat&logo=python&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/php-7377AE.svg?&style=flat&logo=php&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/C-darkblue.svg?&style=flat&logo=c&logoColor=white" />
     <br />
     <img height="25" src="https://img.shields.io/badge/linux-grey.svg?&style=flat&logo=linux&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/svelte-orange.svg?&style=flat&logo=svelte&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/django-darkgreen.svg?&style=flat&logo=django&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/flutter-blue.svg?&style=flat&logo=flutter&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/svelte-EB453D.svg?&style=flat&logo=svelte&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/django-112D1F.svg?&style=flat&logo=django&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/flutter-41B0EF.svg?&style=flat&logo=flutter&logoColor=white" />
 </div>
 
-<h3> Let's connect! Find me on the web. </h3>
+<h3> :woman_technologist: Let's connect! Find me on the web. </h3>
 </samp>
 
 [<img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
