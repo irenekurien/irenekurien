@@ -8,36 +8,42 @@
 - 💬 Ask me about java, python or anything else :)
 - 😄 Pronouns: She/her.
 
-### <b><i>Languages and Tools</i></b>
+### <b><i>Programming Languages</i></b>
 
-[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/flutter.png" />][flutter]
-[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/django.png" />][django]
-[<img align="left" alt="Dart" width="46px" src="https://github.com/irenekurien/irenekurien/blob/main/res/python.png" />][python]
-[<img align="left" alt="Dart" width="36px" src="https://github.com/irenekurien/irenekurien/blob/main/res/java.png" />][java]
+<div style="display: flex; justify-content: space-around">
+<img src="https://img.shields.io/badge/java-brown.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/python-darkblue.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/php-blue.svg?&style=for-the-badge&logo=php&logoColor=white" />
+</div>
 
-<br/><br/><br/>
+### <b><i>Frameworks and Tools</i></b>
 
-<details>
-<summary>📊 
-    <b><i>Github Stats</i></b>
-  </summary>
-  
-  <p align="center"><br/>
-    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&theme=nightowl" height="180px" />
- </p>
-</details>
+<div style="display: flex; justify-content: space-around">
+<img src="https://img.shields.io/badge/svelte-orange.svg?&style=for-the-badge&logo=svelte&logoColor=white" />
+<img src="https://img.shields.io/badge/django-darkgreen.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/flutter-lightblue.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
 ### <b><i>Let's connect! Find me on the web.</i></b>
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
-<hr />
 
-[python]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/python.png 
-[django]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/django.png 
-[java]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/java.png 
-[flutter]: https://raw.githubusercontent.com/irenekurien/irenekurien/main/res/flutter.png 
+<details>
+    <summary>📊 
+        <b><i>My Stats</i></b>
+    </summary>
+    <br/>
+    <div style="display: flex; justify-content: space-around">
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nightowl&bg_color=0D1117" height="180px" />
+ </p>
+<!--  <img align="left" alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&count_private=true&show_icons=true&layout=compact&hide=html%22&hide_border=true&theme=nightowl&bg_color=0D1117" />
+ </div> -->
+ <br/>
+ </details>
+
 
 [linkedin]: https://www.linkedin.com/in/ireneanna/
 [gmail]: irenekurien01@gmail.com
