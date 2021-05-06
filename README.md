@@ -1,7 +1,7 @@
 <samp>
     <h1> Hey there, I'm Irene </h1>
     <h3> I'm a CS sophomore at <a href="http://www.rit.ac.in/">RIT, Kottayam</a>.</h3>
-    <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!--     <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
     <ul>
         <li>🔭 I’m currently working on something cool.</li>
         <li>🌱 I’m currently learning laravel.</li>
@@ -9,31 +9,31 @@
         <li>😄 Pronouns: She/her.</li>
     </ul>
 
-<h3> <i>Programming Languages</i> </h3>
+<h3> Programming Languages </h3>
 
 <div style="display: flex; justify-content: space-around">
-<img src="https://img.shields.io/badge/java-brown.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/python-darkblue.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/php-blue.svg?&style=for-the-badge&logo=php&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/-Java-000?&logo=Java" />
+    <img height="25" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+    <img height="25" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+    <img height="25" src="https://img.shields.io/badge/-PHP-000?&logo=Php" />
 </div>
 
-<h3> <i>Frameworks and Tools</i></h3>
+<h3> Frameworks and Tools </h3>
 
 <div style="display: flex; justify-content: space-around">
-<img src="https://img.shields.io/badge/svelte-orange.svg?&style=for-the-badge&logo=svelte&logoColor=white" />
-<img src="https://img.shields.io/badge/django-darkgreen.svg?&style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/flutter-lightblue.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/-Svelte-000?&logo=Svelte" />
+    <img height="25" src="https://img.shields.io/badge/-Django-000?&logo=Django" />
+    <img height="25" src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter" />
 </div>
 
-<h3> <i>Let's connect! Find me on the web.</i> </h3>
+<h3> Let's connect! Find me on the web. </h3>
 </samp>
 
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img height="25" src = "https://img.shields.io/badge/-gmail-000?&logo=gmail">][gmail] 
+[<img height="25" src="https://img.shields.io/badge/-linkedin-000?&logo=linkedin" />][linkedin]
 <br />
 
-<h3> <i>My Stats</i> </h3>
+<h3> My Stats </h3>
 <div style="display: flex; justify-content: space-around">
     <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=nightowl&bg_color=0D1117" height="180px" />
 <!-- 
