@@ -1,13 +1,14 @@
 <img align="justify" alt="Hey there, I'm irene" src="header.gif">
 
- 🔭 I’m currently working on something cool. <br/>
- 🌱 I’m currently learning Laravel and Node.<br/>
- 💬 Ask me about java, python or web dev :)<br/>
- 😄 Pronouns: She/her.<br/>
- 
+🔭 I’m currently working on something cool. <br/>
+🌱 I’m currently learning Laravel and Node.<br/>
+💬 Ask me about java, python or web dev :)<br/>
+😄 Pronouns: She/her.<br/>
+
  <hr />
 
 ### :mag: Programming Languages
+
 <div style="display: flex; justify-content: space-around">
     <img height="25" src="https://img.shields.io/badge/java-F2983B.svg?&style=flat&logo=java&logoColor=white" />
     <img height="25" src="https://img.shields.io/badge/javascript-EDD730.svg?&style=flat&logo=javascript&logoColor=white" />
@@ -27,8 +28,7 @@
 
 ### :woman_technologist: Let's connect!
 
-
-[<img height="25" src = "https://img.shields.io/badge/gmail-white?&style=flat&logo=gmail&logoColor=c14438">][gmail] 
+[<img height="25" src = "https://img.shields.io/badge/gmail-white?&style=flat&logo=gmail&logoColor=c14438">][gmail]
 [<img height="25" src="https://img.shields.io/badge/linkedin-white.svg?style=flat&logo=linkedin&logoColor=blue" />][linkedin]
 [<img height="25" src="https://img.shields.io/badge/twitter-white.svg?style=flat&logo=twitter&logoColor=blue" />][twitter]
 <br />
@@ -42,4 +42,4 @@
 
 [linkedin]: https://www.linkedin.com/in/ireneanna/
 [gmail]: irenekurien01@gmail.com
-[twitter]:https://twitter.com/knowirene/
+[twitter]: https://twitter.com/knowirene/
