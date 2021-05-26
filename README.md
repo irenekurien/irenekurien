@@ -33,10 +33,11 @@
 [<img height="25" src="https://img.shields.io/badge/twitter-white.svg?style=flat&logo=twitter&logoColor=blue" />][twitter]
 <br />
 
-<div style="display: flex; justify-content: space-around">
+<div style="display: inline-block;">
     <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" height="180px" />
+ 
+<!-- <img alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&hide=python&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />  -->
 <!-- 
-<img align="left" alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&count_private=true&show_icons=true&layout=compact&hide=html%22&hide_border=true&theme=nightowl&bg_color=0D1117" />  -->
 </div>
 </details>
 
