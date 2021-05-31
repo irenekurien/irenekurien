@@ -22,8 +22,9 @@
 <div style="display: flex; justify-content: space-around">
     <img height="25" src="https://img.shields.io/badge/linux-grey.svg?&style=flat&logo=linux&logoColor=white" />
     <img height="25" src="https://img.shields.io/badge/svelte-EB453D.svg?&style=flat&logo=svelte&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/react-5ED3F3.svg?&style=flat&logo=react&logoColor=white" />
     <img height="25" src="https://img.shields.io/badge/django-112D1F.svg?&style=flat&logo=django&logoColor=white" />
-    <img height="25" src="https://img.shields.io/badge/flutter-41B0EF.svg?&style=flat&logo=flutter&logoColor=white" />
+    <img height="25" src="https://img.shields.io/badge/flutter-41B0EF.svg?&style=flat&logo=flutter&logoColor=white" /> 
 </div>
 
 ### :woman_technologist: Let's connect!
