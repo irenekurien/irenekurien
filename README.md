@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on something cool. <br/>
 🌱 I’m currently learning Laravel and Node.<br/>
-💬 Ask me about java, python or web dev :)<br/>
+💬 Ask me about java, javascript or web dev :)<br/>
 😄 Pronouns: She/her.<br/>
 
  <hr />
@@ -37,12 +37,13 @@
 
 <div style="display: inline-block;">
     <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" height="180px" />
+<!--  <img alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&hide=python,dart&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />  -->
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=irenekurien&theme=dark&hide_border=true&background=0D1117&ring=42979D&sideLabels=42979D" />
  
-<!-- <img alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&hide=python&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />  -->
 
 </div>
 </details>
 
 [linkedin]: https://www.linkedin.com/in/ireneanna/
-[gmail]: irenekurien01@gmail.com
+[gmail]: mailto:irenekurien01@gmail.com
 [twitter]: https://twitter.com/knowirene/
