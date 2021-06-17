@@ -38,7 +38,7 @@
 <div style="display: inline-block;">
     <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=irenekurien&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" height="180px" />
 <!--  <img alt="Irene's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenekurien&langs_count=10&hide=python,dart&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" />  -->
- <img src="https://github-readme-streak-stats.herokuapp.com?user=irenekurien&theme=dark&hide_border=true&background=0D1117&ring=42979D&sideLabels=42979D" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com?user=irenekurien&theme=dark&hide_border=true&background=0D1117&ring=42979D&sideLabels=42979D" /> -->
  
 
 </div>
