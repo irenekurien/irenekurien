@@ -1,7 +1,7 @@
 <img align="justify" alt="Hey there, I'm irene" src="header.gif">
 
 🔭 I’m currently working on something cool. <br/>
-🌱 I’m currently learning Laravel and Node.<br/>
+🌱 I’m currently learning Laravel and Fast API.<br/>
 💬 Ask me about java, javascript or web dev :)<br/>
 😄 Pronouns: She/her.<br/>
 
